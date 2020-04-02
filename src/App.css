@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.rangeImg {
+  max-width: 500px;
+  width: 100%;
+  margin-top: 1.5vh;
+  box-shadow: 0 11px 24px rgba(0,0,0,.2);
+}
+
+.rangeSumm {
+  margin-top: 3vh;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -14,7 +25,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #fff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
