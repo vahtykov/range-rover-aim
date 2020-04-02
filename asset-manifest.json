@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/range-rover-aim/static/css/main.5f361e03.chunk.css",
+    "main.js": "/range-rover-aim/static/js/main.1d7863f5.chunk.js",
+    "main.js.map": "/range-rover-aim/static/js/main.1d7863f5.chunk.js.map",
+    "runtime-main.js": "/range-rover-aim/static/js/runtime-main.38a0f941.js",
+    "runtime-main.js.map": "/range-rover-aim/static/js/runtime-main.38a0f941.js.map",
+    "static/js/2.6a7cba8d.chunk.js": "/range-rover-aim/static/js/2.6a7cba8d.chunk.js",
+    "static/js/2.6a7cba8d.chunk.js.map": "/range-rover-aim/static/js/2.6a7cba8d.chunk.js.map",
+    "index.html": "/range-rover-aim/index.html",
+    "precache-manifest.118f625b218f6f4de269d83ed59a5fa0.js": "/range-rover-aim/precache-manifest.118f625b218f6f4de269d83ed59a5fa0.js",
+    "service-worker.js": "/range-rover-aim/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/range-rover-aim/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6a7cba8d.chunk.js.LICENSE.txt": "/range-rover-aim/static/js/2.6a7cba8d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/range-rover-aim/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a0f941.js",
+    "static/js/2.6a7cba8d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1d7863f5.chunk.js"
+  ]
+}
