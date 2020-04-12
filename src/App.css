@@ -1,10 +1,19 @@
 .App {
   text-align: center;
+  padding-bottom: 40px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.input {
+  margin-left: 10px;
+  border: 0 none;
+  box-shadow: 0 1px 10px rgba(0,0,0,.05);
+  padding: 10px;
+  outline: 0;
 }
 
 .rangeImg {
