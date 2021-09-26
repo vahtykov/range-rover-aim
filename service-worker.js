@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/range-rover-aim/precache-manifest.2824c26a0ab3f189f84747c0d9a5f0fb.js"
+  "/range-rover-aim/precache-manifest.07d7f6706e0f3aa7046c0a179da069aa.js"
 );
 
 self.addEventListener('message', (event) => {
