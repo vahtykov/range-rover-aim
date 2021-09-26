@@ -22,6 +22,12 @@ function App() {
       <h3>До RR Vogue, при зп { `${_salary.toLocaleString()} ₽` } в месяц, осталось: { ((_roverPrice - _moneyNow)/_salary).toFixed(1) } месяцев</h3>
 
       <label>
+        Накоплений сейчас:
+        <input value={_moneyNow} onChange={(e) => _setMoneyNow(parseInt(e.target.value))} className='input' type='number' />
+      </label>
+      <br />
+      <br />
+      <label>
         Текущая зп в месяц:
         <input value={_salary} onChange={(e) => _setSalary(parseInt(e.target.value))} className='input' type='number' />
       </label>
