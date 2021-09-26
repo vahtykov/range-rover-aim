@@ -3,9 +3,9 @@ import range from './range.jpg';
 import './App.css';
 
 function App() {
-  const [_salary, _setSalary] = useState(40000);
-  const [_moneyNow, _setMoneyNow] = useState(120000);
-  const [_roverPrice, _setRoverPrice] = useState(600000);
+  const [_salary, _setSalary] = useState(65000);
+  const [_moneyNow, _setMoneyNow] = useState(108000);
+  const [_roverPrice, _setRoverPrice] = useState(1300000);
 
   return (
     <div className="App">
